@@ -142,3 +142,6 @@ This repository serves as the official landing page for StarVPN. The software is
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of StarVPN today!**
+
+---
+**Last updated:** 2026-11-10 12:18:36 UTC
