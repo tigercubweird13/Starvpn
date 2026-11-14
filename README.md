@@ -144,4 +144,4 @@ This repository serves as the official landing page for StarVPN. The software is
 **Get the most recent version of StarVPN today!**
 
 ---
-**Last updated:** 2026-11-13 21:15:42 UTC
+**Last updated:** 2026-11-14 02:01:50 UTC
